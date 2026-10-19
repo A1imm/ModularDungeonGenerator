@@ -1,0 +1,58 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# Visual Studio / Rider / VS Code generated
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity generated
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Crash reports
+sysinfo.txt
+
+# Builds / executables
+*.apk
+*.aab
+*.unitypackage
+
+# Third-party assets - Polyfork
+/Assets/Art/Polyfork/
+/Assets/Art/Polyfork.meta
+
+# Root build artifacts
+/Data/
+
+# Unity Visual Scripting generated cache
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
+/Assets/Unity.VisualScripting.Generated/VisualScripting.Core.meta
