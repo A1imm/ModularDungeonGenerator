@@ -420,7 +420,7 @@ MonoBehaviour:
   maxRoomSize: 6
   roomSpacing: 1
   maxAttempts: 10000
-  seed: 12345
+  seed: 423502929
   loopProbability: 0.15
   showGridBounds: 1
   showRoomCenters: 1
